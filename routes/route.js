@@ -4,7 +4,7 @@ import Auth from "../middleware/auth.js";
 
 const router = Router();
 
-// auth
+// auth login resgiter
 router.post("/register", apiController.register);
 router.post("/login", apiController.login);
 
