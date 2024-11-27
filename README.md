@@ -1,1 +1,1 @@
-keseluruhan back-end dari website Equaliteach 
+Keseluruhan back-end dari website Equaliteach 
